@@ -1,0 +1,10 @@
+[app]
+log=DEBUG
+
+[rabbitmq]
+host=localhost
+port=5672
+username=mycomputer
+password=mycomputer
+request_queue=requests
+response_queue=responses
